@@ -22,7 +22,7 @@ Now use Git to clone your project from Github. Edit as necessary with your usern
 
 ```xml
 $ git clone git@github.com:username/foobooks.git
-```
+git```
 
 Navigate into the resulting directory (in this case, it's `foobooks`) and use a list command to confirm all your files are there.
 
